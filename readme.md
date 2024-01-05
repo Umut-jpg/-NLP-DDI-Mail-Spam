@@ -1,5 +1,13 @@
 # DDİ Mail Spam Test 
 
+**NOT !!!** Vercel.json ve Requirements.txt dosyalarım vercel  pro'da canlı olarak host etmek isteyenler için eklenmiştir
+**Projeyi Çalıştırma** 
+index.py dosyasını (***python index.py***) komutu ile başlatarak  görebilirsiniz.
+
+```
+!(https://hizliresim.com/labqr76)
+```
+
 **Projenin Amacı** 
  - Kullanıcı tarafından girilen mail mesajının spam bir mail mi yoksa ham bir mail mi olduğuna karar veren bir model eğitmek.
   
@@ -7,6 +15,10 @@
  - Pandas
  - Sklearn
  - CGI
+ - Flask
+ - Pickle
+ - FlaskCors
+ - 
  - OS(Veri Setini Oluştururken Kullanıldı)
 
 **Veri Setinin Oluşturulması**
