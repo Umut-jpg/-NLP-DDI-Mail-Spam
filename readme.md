@@ -1,11 +1,24 @@
 # DDİ Mail Spam Test 
 
 **NOT !!!** Vercel.json ve Requirements.txt dosyalarım vercel  pro'da canlı olarak host etmek isteyenler için eklenmiştir
+
+**Kullanılan Teknolojiler**
+ - Html
+ - TailwindCss
+ - Python
+
 **Projeyi Çalıştırma** 
 index.py dosyasını (***python index.py***) komutu ile başlatarak  görebilirsiniz.
 
+**Proje Anasayfa Ve Uygulama Görüntüleri**
 ```
-!(https://hizliresim.com/labqr76)
+https://hizliresim.com/labqr76
+```
+```
+https://hizliresim.com/hu01rs9
+```
+```
+https://hizliresim.com/pl78qj3
 ```
 
 **Projenin Amacı** 
@@ -18,7 +31,6 @@ index.py dosyasını (***python index.py***) komutu ile başlatarak  görebilirs
  - Flask
  - Pickle
  - FlaskCors
- - 
  - OS(Veri Setini Oluştururken Kullanıldı)
 
 **Veri Setinin Oluşturulması**
@@ -37,6 +49,9 @@ Sınıflandırma modeli olarak lojistik regresyon seçiminde bulunduk daha sonra
 
 **Sonuc => Modelin Kullanılması**
 Modelimizi  verilen e-posta mesajlarının spammı yoksa hammı olduğunu  tahmin etmek için kullanırız .
+
+**=>Yayına Alınması**
+Flask yardımı ile modelin yayınlanması sağlandı.
 
 
 
